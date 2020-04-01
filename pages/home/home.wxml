@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+
+<text>{{name}}</text>
+<text>我的年龄是{{age}}</text>
